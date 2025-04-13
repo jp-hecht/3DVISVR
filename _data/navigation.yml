@@ -1,0 +1,15 @@
+main:
+  # - title: "Berichte"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "Jonathan"
+    url: /Jonathan/
+  - title: "Madelaine"
+    url: /Madelaine/
+  - title: "Marlene"
+    url: /Marlene/
+  # - title: "Hilfe!"
+  #   url: /help/
