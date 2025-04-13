@@ -137,7 +137,7 @@ Wenn der rechte Controller mit der Bewegungssteuerung des VR Pawns belegt ist, w
 Zusammenfassend ist die Tastenbelegung, wie folgt festgelegt wurden:
 {: style="text-align: justify;"}
 
-![Bedienungsanleitung]({{ site.baseurl }}/assets/images/MWA/Kurzanleitung.png)
+![Bedienungsanleitung]({{ site.baseurl }}/assets/images/MWA/Kontollerbelegung.png)
 *Abbildung 5: Belegung der Controller-Tasten für Interaktionen in der VR-Anwendung*
 
 ## Außenbereich
